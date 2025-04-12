@@ -6,13 +6,15 @@ This is a team project about creating a website for an AI startup company. The w
 Team member Tom is to update the Navigation of the homepage file index.html, and at the same time another team member Jerry is to make changes to add Contact Information to the footer of the same homepage.
 
 ## Project Details
-1. Both Tom and Jerry installs git on their system and accesses the repository in a remote location like GitHub
+1. Setting up GitHub:
 
-![](/img/1.main.png)
+Both Tom and Jerry installs git on their system and accesses the repository in a remote location like GitHub
+
+![](/img/1.GitHub-dashboard.png)
 
 2. They clone the repository from the remote location to their local machines.
 
-![](/img/2.cloning.png)
+![](/img/2.git-cli.png)
 
 3. They both create a new branch from the main project. Tom names his branch "update-navigation"
 
