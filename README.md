@@ -8,7 +8,8 @@ Team member Tom is to update the Navigation of the homepage file index.html, and
 ## Project Details
 1. Setting up GitHub:
 
-Both Tom and Jerry installs git on their system and accesses the repository in a remote location like GitHub
+Both Tom and Jerry installs git on their system and accesses the repository in a remote location like GitHub.
+Find the screenshot of the github account below.
 
 ![](/img/1.GitHub-dashboard.png)
 
@@ -16,7 +17,10 @@ Both Tom and Jerry installs git on their system and accesses the repository in a
 
 ![](/img/2.git-cli.png)
 
-3. They both create a new branch from the main project. Tom names his branch "update-navigation"
+3. They both create a new branch from the main project. The repository contains a index.html file as the root.
+the url to the index file is https://github.com/Crescentius00/Git-Version-Control/blob/main/index.html
+
+Tom names his branch "update-navigation"
 
 ![](/img/3.update-navigation.png)
 
